@@ -20,7 +20,7 @@ Results obtained with this solution:
 | 5 | 146141843.5426583 | 1000 |
 | 6 | 228464298.07913643 | 1000 |
 
-The plots related to these results are the following:<br><br>
+The plots related to these results are the following:<br>
 ### Instance 1<br><br>
 ![Instance 1](output1.png)
 ### Instance 2<br><br>
